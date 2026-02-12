@@ -2,7 +2,12 @@
 
 **Software Engineer** at [Tesco](https://github.com/Tesco) · Budapest, Hungary 🇭🇺
 
-I'm a polyglot developer and open-source enthusiast who's been on GitHub since **2012**. I enjoy working across the full stack — from infrastructure and DevOps tooling to reverse engineering and systems programming.
+I don't consider myself a developer, but I'm shamelessly using AI tools (Claude Code goes brrr) to try to contribute some useful stuff to the world. I've been on GitHub since **2012** and I'm an open-source enthusiast who dabbles across the full stack — from infrastructure and DevOps tooling to reverse engineering and systems programming.
+
+**AI Tools I Use**
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
