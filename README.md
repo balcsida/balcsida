@@ -1,6 +1,6 @@
 ## Hey, I'm Dávid Balatoni 👋
 
-**Software Engineer** at [Tesco](https://github.com/Tesco) · Budapest, Hungary 🇭🇺
+**Senior System Engineer** at [Tesco](https://github.com/Tesco) · Budapest, Hungary 🇭🇺
 
 I don't consider myself a developer, but I'm shamelessly using AI tools (Claude Code goes brrr) to try to contribute some useful stuff to the world. I've been on GitHub since **2012** and I'm an open-source enthusiast who dabbles across the full stack — from infrastructure and DevOps tooling to reverse engineering and systems programming.
 
@@ -31,31 +31,3 @@ I don't consider myself a developer, but I'm shamelessly using AI tools (Claude 
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-
----
-
-### 🚀 Notable Projects
-
-| Project | Description |
-|---------|-------------|
-| [**lgtv-rs**](https://github.com/balcsida/lgtv-rs) | Rust reimplementation of LGWebOSRemote for controlling LG smart TVs |
-| [**terraform-provider-azuredevops**](https://github.com/balcsida/terraform-provider-azuredevops) | Terraform provider for Azure DevOps |
-| [**warfront-inf-tools**](https://github.com/balcsida/warfront-inf-tools) | Reverse engineering tools for WarFront: Turning Point INF files |
-| [**homebrew-anyk**](https://github.com/balcsida/homebrew-anyk) | Homebrew tap for the Hungarian Tax Authority's ÁNYK application |
-| [**vd_agent**](https://github.com/balcsida/vd_agent) | SPICE guest agent |
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=balcsida&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balcsida&layout=compact&hide_border=true&langs_count=10" alt="Top Languages" />
-</p>
-
----
-
-### 📫 Get in Touch
-
-[![Twitter](https://img.shields.io/badge/-@balcsida-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/balcsida)
-[![GitHub](https://img.shields.io/badge/-balcsida-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/balcsida)
