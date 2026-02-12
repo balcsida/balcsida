@@ -1,14 +1,21 @@
 ## Hey, I'm Dávid Balatoni 👋
 
-**Software Engineer** at [Tesco](https://github.com/Tesco) · Budapest, Hungary 🇭🇺
+Budapest, Hungary 🇭🇺
 
-I'm a polyglot developer and open-source enthusiast who's been on GitHub since **2012**. I enjoy working across the full stack — from infrastructure and DevOps tooling to reverse engineering and systems programming.
+I'm not a developer — but I shamelessly use AI tools to try to contribute useful stuff to the world. Claude Code goes brrr. 🤖
+
+I've been on GitHub since **2012**, tinkering with everything from infrastructure and DevOps tooling to reverse engineering and systems programming. With the help of AI, I turn ideas into code — from Terraform providers to Rust CLI tools and beyond.
 
 ---
 
 ### 🔧 What I Work With
 
-**Languages**
+**AI-Powered Development**
+
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+**Languages (with a little help from AI)**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
