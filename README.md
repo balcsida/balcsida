@@ -7,7 +7,6 @@ I don't consider myself a developer, but I'm shamelessly using AI tools (Claude 
 **AI Tools I Use**
 
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
